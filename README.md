@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aakass Elango
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning angular and .NET core
 
 
 <!---
